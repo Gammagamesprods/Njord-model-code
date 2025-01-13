@@ -14,5 +14,5 @@ ok. enough with this legal crap. heres the version info.
 
 ## VERSION INFO
 Hardware version: 0.2
-Software version: 0.2
-Firmware version: 0.5
+Software version: 0.5
+Firmware version: 0.3
