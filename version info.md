@@ -13,6 +13,11 @@ Il make this public when the competition is over.
 ok. enough with this legal crap. heres the version info.
 
 ## VERSION INFO
-Hardware version: 0.2
-Software version: 0.5
-Firmware version: 0.3
+Hardware version: 1.0
+
+Software version: 1.5
+
+Firmware version: 1.2
+
+>[!NOTE]
+>This is the first release version.
